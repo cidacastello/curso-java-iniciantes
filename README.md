@@ -61,8 +61,19 @@ Acompanhe as dicas e novidades pelo Instagram [Cida Castello](https://www.instag
  ***
 ## Material de apoio
 
-### Ferramentas / Softwares para baixar - Links
+### Links - Ferramentas / Softwares / Ajuda
 
+#### Oracle
+* [Oracle Java](https://www.oracle.com/br/java/)
+* [O que é tecnologia Java e por que preciso dela?](https://www.java.com/pt-BR/download/help/whatis_java.html)
+##### Java SE Development Kit
+* [Download Oracle JDK 17 LTS](https://www.oracle.com/br/java/technologies/downloads/#java17)
+* [Download Oracle JDK 19 LTS](https://www.oracle.com/br/java/technologies/downloads/#java19)
+
+### OpenJDK
+* [OpenJDK download JDK](https://jdk.java.net/19/)
+* [Download Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk)
+* [](https://adoptium.net/temurin/releases/?version=11)
 ***
 ## Lista de Exercícios
 
