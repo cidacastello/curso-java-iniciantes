@@ -26,7 +26,7 @@ Acompanhe as dicas e novidades pelo Instagram [Cida Castello](https://www.instag
 * Totalmente gratuito.
 * Não disponibiliza certificado.
 * Aulas teóricas para abordar os conceitos e aplicar na prática.
-* Recheado de exercíci*os explicados passo-a-passo e resolvidos.
+* Recheado de exercícios explicados passo-a-passo e resolvidos.
 * Desafios com exercícios e respostas.
 
 ### Público Alvo
