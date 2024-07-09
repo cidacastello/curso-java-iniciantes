@@ -1,20 +1,26 @@
 package com.github.cidacastello.modelo;
 
+// imports
 //declaração da classe
 
 public class Carro {
 	
 	// variáves de instância (atributos, campos)
-	// tipo - nome da variável de instância
+	// modificador de acesso - tipo - nome da variável de instância
 	
-	String marca;
-	String modelo;
-	int anoFrabricacao;
-	String cor;
-	double preco;
+	public String marca;
+	public String modelo;
+	public int anoFrabricacao;
+	public String cor;
+	public double preco;
 	
 	
-	// métodos
+	// métodos - construtores
 	
 
 }
+
+
+
+
+
