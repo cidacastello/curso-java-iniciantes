@@ -70,6 +70,24 @@ public class ContaBancaria {
 	
 	public void sacar(double valor) {
 		
+		if(valor <= 0 ) {
+			System.out.println("Valor inválido!");
+			return;
+		}
+		
+		if(!ativa) {
+			System.out.println("Conta inativa");
+			return;
+		}
+		
+		if(saldo < valor) {
+			System.out.println("Saldo insuficiente");
+			return;
+		}
+		
+		saldo = saldo - valor;
+		// saldo -= valor;
+		
 	}
 	
 

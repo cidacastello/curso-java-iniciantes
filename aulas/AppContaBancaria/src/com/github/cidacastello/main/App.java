@@ -22,7 +22,8 @@ public class App {
 		System.out.println("Ativa? " + conta.isAtiva());
 		
 		// depositando valor na conta
-		conta.depositar(1000);
+		// conta.depositar(1000);
+		conta.sacar(-500);
 		System.out.println("Novo Saldo: " + conta.getSaldo());
 		
 	}
