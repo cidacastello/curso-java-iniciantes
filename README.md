@@ -1,6 +1,9 @@
 # Curso de Java para Iniciantes
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/cidacastello/curso-java-iniciantes/blob/main/LICENSE)
 
+> **Atenção:** Este repositório é apenas para consulta e aprendizado. Não aceitamos Pull Requests, colaborações ou sugestões de código.  
+> Qualquer PR enviado será automaticamente fechado.
+
 _**Programar é muito mais do que escrever códigos**_
 
 _**Programar é a arte de pensar para escrever códigos**_
