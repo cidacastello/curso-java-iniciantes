@@ -1,5 +1,4 @@
 # Curso de Java para Iniciantes
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/cidacastello/curso-java-iniciantes/blob/main/LICENSE)
 
 _**Programar é muito mais do que escrever códigos**_
 
@@ -11,20 +10,11 @@ Bem-vindos ao repositório do Curso de Java para Iniciantes!
 
 Aqui você encontra os materiais de apoio das aulas e links para instalação das ferramentas que vamos utilizar, bem como o código fonte dos nossos programas.
 
-Dá uma **força** :muscle: aqui pro repositório e clica na *star* :star:, aqui do GitHub:point_up: :wink:
-
-Inscreva-se no canal [Cida Castello](https://www.youtube.com/c/CidaCastello) do YouTube, ative o sininho :bell:, assim o Youtube te avisa sempre que um vídeo novo for publicado e assista as aulas até o final:+1:
-
-Acompanhe as dicas e novidades pelo Instagram [Cida Castello](https://www.instagram.com/cidacastello/) :+1:
-
-
 ***
 ## Sobre o Curso
 
 ### Formato
-* On-line, com vídeos gravados no YouTube.
-* Totalmente gratuito.
-* Não disponibiliza certificado.
+
 * Aulas teóricas para abordar os conceitos e aplicar na prática.
 * Recheado de exercícios explicados passo a passo e resolvidos.
 * Desafios com exercícios e respostas.
@@ -76,15 +66,3 @@ Acompanhe as dicas e novidades pelo Instagram [Cida Castello](https://www.instag
 * [](https://adoptium.net/temurin/releases/?version=11)
 ***
 ## Lista de Exercícios
-
-***
-
-## Link do canal do YouTube
-
-Os vídeos sobre as aulas encontram-se disponíveis no canal do YouTube 
-[Cida Castello](https://www.youtube.com/c/CidaCastello)
-Acompanhe as aulas:+1:
-
-***
-## Autora
-Aparecida Castello
